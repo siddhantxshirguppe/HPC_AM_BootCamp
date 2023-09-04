@@ -12,6 +12,9 @@ In this project, the Visualization Toolkit (VTK) library is utilized to create a
 VTK, renowned for its capabilities in 3D rendering and visualization, is employed to design and render the objects, define their appearance attributes, incorporate lighting effects, and establish an interactive visualization environment.
 
 
+
 ![screenshot_c](https://github.com/siddhantxshirguppe/HPC_VTK_BootCamp/assets/28926200/920bd3c4-dcd6-4bcb-94b7-09a12e494de4)
+
 ![screenshot_b](https://github.com/siddhantxshirguppe/HPC_VTK_BootCamp/assets/28926200/99759db1-d0c5-4579-b94f-7d2d87c3f7d4)
+
 ![screenshot_a](https://github.com/siddhantxshirguppe/HPC_VTK_BootCamp/assets/28926200/a4f3759e-f399-4daf-919c-ffe3cf1ca459)
