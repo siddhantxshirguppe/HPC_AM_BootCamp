@@ -1,4 +1,4 @@
-# HPC_VTK_BootCamp
+# HPC_AM_BootCamp
 1. Laser Heat Transfer Simulation for Additive Manufacturing on Jupyter Notebook:
 This project entails the development of a computational simulation model within a Jupyter Notebook environment. The primary objective is to simulate and analyze the heat transfer process that occurs during additive manufacturing.
 The simulation involves mathematical and computational modeling to understand how laser interactions with materials influence heat distribution and ultimately impact the additive manufacturing process using Rosenthal's Solution.
